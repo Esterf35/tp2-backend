@@ -49,3 +49,13 @@ if ($numero1 > $numero2){
    echo "<h2> El resultado es = </h2>" .($numero1 + $numero2);
    echo "<h2> El resultado es = </h2>" .($numero1 - $numero2);
 }
+        echo "<h2>El resultado es =  </h2>",($numero1 - $numero2);
+    }
+
+
+
+    ?>
+</body>
+</html>
+
+ 
